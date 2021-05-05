@@ -1,0 +1,746 @@
+[
+	{
+		"dir": "/iconPerks_darkSense.png",
+		"tier": 3
+	},	
+	{
+		"dir": "/iconPerks_dejaVu.png",
+		"tier": 3
+	},	
+	{
+		"dir": "/iconPerks_hope.png",
+		"tier": 3
+	},	
+	{
+		"dir": "/iconPerks_kindred.png",
+		"tier": 3
+	},
+	{
+		"dir": "/iconPerks_lightweight.png",
+		"tier": 3
+	},	
+	{
+		"dir": "/iconPerks_noOneLeftBehind.png",
+		"tier": 3
+	},	
+	{
+		"dir": "/iconPerks_plunderersInstinct.png",
+		"tier": 3
+	},	
+	{
+		"dir": "/iconPerks_premonition.png",
+		"tier": 3
+	},	
+	{
+		"dir": "/iconPerks_resilience.png",
+		"tier": 3
+	},		
+	{
+		"dir": "/iconPerks_slipperyMeat.png",
+		"tier": 3
+	},	
+	{
+		"dir": "/iconPerks_smallGame.png",
+		"tier": 3
+	},	
+	{
+		"dir": "/iconPerks_spineChill.png",
+		"tier": 3
+	},	
+	{
+		"dir": "/iconPerks_thisIsNotHappening.png",
+		"tier": 3
+	},	
+	{
+		"dir": "/iconPerks_wellMakeIt.png",
+		"tier": 3
+	},	
+	
+	{
+		"dir": "/iconPerks_bitterMurmur.png",
+		"tier": 3
+	},	
+	{
+		"dir": "/iconPerks_deerstalker.png",
+		"tier": 3
+	},	
+	{
+		"dir": "/iconPerks_distressing.png",
+		"tier": 3
+	},	
+	{
+		"dir": "/iconPerks_insidious.png",
+		"tier": 3
+	},	
+	{
+		"dir": "/iconPerks_ironGrasp.png",
+		"tier": 3
+	},	
+	{
+		"dir": "/iconPerks_monstrousShrine.png",
+		"tier": 3
+	},	
+	{
+		"dir": "/iconPerks_noOneEscapesDeath.png",
+		"tier": 3
+	},	
+	{
+		"dir": "/iconPerks_sloppyButcher.png",
+		"tier": 3
+	},	
+	{
+		"dir": "/iconPerks_spiesFromTheShadows.png",
+		"tier": 3
+	},
+	{
+		"dir": "/iconPerks_unrelenting.png",
+		"tier": 3
+	},
+	{
+		"dir": "/iconPerks_whispers.png",
+		"tier": 3
+	},	
+	{
+		"dir": "/DLC3/iconPerks_thrillOfTheHunt.png",
+		"tier": 3
+	},
+	
+
+	{
+		"dir": "/iconPerks_bond.png",
+		"tier": 1
+	},
+	{
+		"dir": "/iconPerks_proveThyself.png",
+		"tier": 2
+	},
+	{
+		"dir": "/iconPerks_leader.png",
+		"tier": 3		
+	},
+	
+	{
+		"dir": "/iconPerks_unnervingPresence.png",
+		"tier": 1
+	},
+	{
+		"dir": "/iconPerks_brutalStrength.png",
+		"tier": 2
+	},
+	{
+		"dir": "/iconPerks_agitation.png",
+		"tier": 3		
+	},
+	
+	{
+		"dir": "/iconPerks_quickAndQuiet.png",
+		"tier": 1
+	},
+	{
+		"dir": "/iconPerks_sprintBurst.png",
+		"tier": 2
+	},
+	{
+		"dir": "/iconPerks_adrenaline.png",
+		"tier": 3		
+	},	
+	
+	{
+		"dir": "/iconPerks_predator.png",
+		"tier": 1
+	},
+	{
+		"dir": "/iconPerks_bloodhound.png",
+		"tier": 2
+	},
+	{
+		"dir": "/iconPerks_shadowborn.png",
+		"tier": 3		
+	},
+	
+	{
+		"dir": "/iconPerks_empathy.png",
+		"tier": 1
+	},
+	{
+		"dir": "/iconPerks_botanyKnowledge.png",
+		"tier": 2
+	},
+	{
+		"dir": "/iconPerks_selfCare.png",
+		"tier": 3		
+	},	
+	
+	{
+		"dir": "/iconPerks_enduring.png",
+		"tier": 1
+	},
+	{
+		"dir": "/iconPerks_lightborn.png",
+		"tier": 2
+	},
+	{
+		"dir": "/iconPerks_tinkerer.png",
+		"tier": 3		
+	},
+	
+	{
+		"dir": "/iconPerks_ironWill.png",
+		"tier": 1
+	},
+	{
+		"dir": "/iconPerks_calmSpirit.png",
+		"tier": 2
+	},
+	{
+		"dir": "/iconPerks_saboteur.png",
+		"tier": 3		
+	},
+
+	{
+		"dir": "/iconPerks_balancedLanding.png",
+		"tier": 1
+	},
+	{
+		"dir": "/iconPerks_urbanEvasion.png",
+		"tier": 2
+	},
+	{
+		"dir": "/iconPerks_streetwise.png",
+		"tier": 3		
+	},	
+	
+	{
+		"dir": "/iconPerks_stridor.png",
+		"tier": 1
+	},
+	{
+		"dir": "/iconPerks_thatanophobia.png",
+		"tier": 2
+	},
+	{
+		"dir": "/iconPerks_aNursesCalling.png",
+		"tier": 3		
+	},
+	
+	{
+		"dir": "/DLC2/iconPerks_soleSurvivor.png",
+		"tier": 1
+	},
+	{
+		"dir": "/DLC2/iconPerks_objectOfObsession.png",
+		"tier": 2
+	},
+	{
+		"dir": "/DLC2/iconPerks_decisiveStrike.png",
+		"tier": 3		
+	},
+	
+	{
+		"dir": "/DLC2/iconPerks_saveTheBestForLast.png",
+		"tier": 1
+	},
+	{
+		"dir": "/DLC2/iconPerks_playWithYourFood.png",
+		"tier": 2
+	},
+	{
+		"dir": "/DLC2/iconPerks_dyingLight.png",
+		"tier": 3		
+	},	
+	
+	{
+		"dir": "/DLC3/iconPerks_openHanded.png",
+		"tier": 1
+	},
+	{
+		"dir": "/DLC3/iconPerks_upTheAnte.png",
+		"tier": 2
+	},
+	{
+		"dir": "/DLC3/iconPerks_aceInTheHole.png",
+		"tier": 3		
+	},
+
+	{
+		"dir": "/DLC3/iconPerks_theThirdSeal.png",
+		"tier": 1
+	},
+	{
+		"dir": "/DLC3/iconPerks_ruin.png",
+		"tier": 2
+	},
+	{
+		"dir": "/DLC3/iconPerks_devourHope.png",
+		"tier": 3		
+	},
+	
+	{
+		"dir": "/L4D/iconPerks_leftBehind.png",
+		"tier": 1
+	},
+	{
+		"dir": "/L4D/iconPerks_borrowedTime.png",
+		"tier": 2
+	},
+	{
+		"dir": "/L4D/iconPerks_unbreakable.png",
+		"tier": 3		
+	},
+	
+	{
+		"dir": "/DLC4/iconPerks_technician.png",
+		"tier": 1
+	},
+	{
+		"dir": "/DLC4/iconPerks_lithe.png",
+		"tier": 2
+	},
+	{
+		"dir": "/DLC4/iconPerks_alert.png",
+		"tier": 3		
+	},
+
+	{
+		"dir": "/DLC4/iconPerks_technician.png",
+		"tier": 1
+	},
+	{
+		"dir": "/DLC4/iconPerks_lithe.png",
+		"tier": 2
+	},
+	{
+		"dir": "/DLC4/iconPerks_alert.png",
+		"tier": 3		
+	},	
+	
+	{
+		"dir": "/DLC4/iconPerks_overwhelmingPresence.png",
+		"tier": 1
+	},
+	{
+		"dir": "/DLC4/iconPerks_monitorAndAbuse.png",
+		"tier": 2
+	},
+	{
+		"dir": "/DLC4/iconPerks_generatorOvercharge.png",
+		"tier": 3		
+	},	
+	
+	{
+		"dir": "/DLC5/iconPerks_WereGonnaLiveForever.png",
+		"tier": 1
+	},
+	{
+		"dir": "/DLC5/iconPerks_DeadHard.png",
+		"tier": 2
+	},
+	{
+		"dir": "/DLC5/iconPerks_NoMither.png",
+		"tier": 3		
+	},	
+	
+	{
+		"dir": "/DLC5/iconPerks_BeastOfPrey.png",
+		"tier": 1
+	},
+	{
+		"dir": "/DLC5/iconPerks_TerritorialImperative.png",
+		"tier": 2
+	},
+	{
+		"dir": "/DLC5/iconPerks_HuntressLullaby.png",
+		"tier": 3		
+	},	
+	
+	{
+		"dir": "/Cannibal/iconPerks_knockOut.png",
+		"tier": 1
+	},
+	{
+		"dir": "/Cannibal/iconPerks_BBQAndChili.png",
+		"tier": 2
+	},
+	{
+		"dir": "/Cannibal/iconPerks_franklinsLoss.png",
+		"tier": 3		
+	},	
+	
+	{
+		"dir": "/England/iconPerks_wakeUp.png",
+		"tier": 1
+	},
+	{
+		"dir": "/England/iconPerks_pharmacy.png",
+		"tier": 2
+	},
+	{
+		"dir": "/England/iconPerks_vigil.png",
+		"tier": 3		
+	},	
+	
+	{
+		"dir": "/England/iconPerks_fireUp.png",
+		"tier": 1
+	},
+	{
+		"dir": "/England/iconPerks_rememberMe.png",
+		"tier": 2
+	},
+	{
+		"dir": "/England/iconPerks_bloodWarden.png",
+		"tier": 3		
+	},	
+	
+	{
+		"dir": "/Finland/iconPerks_tenacity.png",
+		"tier": 1
+	},
+	{
+		"dir": "/Finland/iconPerks_detectivesHunch.png",
+		"tier": 2
+	},
+	{
+		"dir": "/Finland/iconPerks_stakeOut.png",
+		"tier": 3		
+	},	
+	
+	{
+		"dir": "/Finland/iconPerks_hangmansTrick.png",
+		"tier": 1
+	},
+	{
+		"dir": "/Finland/iconPerks_surveillance.png",
+		"tier": 2
+	},
+	{
+		"dir": "/Finland/iconPerks_makeYourChoice.png",
+		"tier": 3		
+	},	
+	
+	{
+		"dir": "/Kate/iconPerks_danceWithMe.png",
+		"tier": 1
+	},
+	{
+		"dir": "/Kate/iconPerks_windowsOfOpportunity.png",
+		"tier": 2
+	},
+	{
+		"dir": "/Kate/iconPerks_boilOver.png",
+		"tier": 3		
+	},	
+	
+	{
+		"dir": "/Guam/iconPerks_bamboozle.png",
+		"tier": 1
+	},
+	{
+		"dir": "/Guam/iconPerks_coulrophobia.png",
+		"tier": 2
+	},
+	{
+		"dir": "/Guam/iconPerks_popGoesTheWeasel.png",
+		"tier": 3		
+	},
+
+	{
+		"dir": "/Haiti/iconPerks_diversion.png",
+		"tier": 1
+	},
+	{
+		"dir": "/Haiti/iconPerks_deliverance.png",
+		"tier": 2
+	},
+	{
+		"dir": "/Haiti/iconPerks_autodidact.png",
+		"tier": 3		
+	},	
+	
+	{
+		"dir": "/Haiti/iconPerks_spiritFury.png",
+		"tier": 1
+	},
+	{
+		"dir": "/Haiti/iconPerks_hauntedGround.png",
+		"tier": 2
+	},
+	{
+		"dir": "/Haiti/iconPerks_hatred.png",
+		"tier": 3		
+	},	
+	
+	{
+		"dir": "/Kenya/iconPerks_breakdown.png",
+		"tier": 1
+	},
+	{
+		"dir": "/Kenya/iconPerks_aftercare.png",
+		"tier": 2
+	},
+	{
+		"dir": "/Kenya/iconPerks_distortion.png",
+		"tier": 3		
+	},	
+	
+	{
+		"dir": "/Kenya/iconPerks_discordance.png",
+		"tier": 1
+	},
+	{
+		"dir": "/Kenya/iconPerks_madGrit.png",
+		"tier": 2
+	},
+	{
+		"dir": "/Kenya/iconPerks_ironMaiden.png",
+		"tier": 3		
+	},	
+	
+	{
+		"dir": "/Mali/iconPerks_solidarity.png",
+		"tier": 1
+	},
+	{
+		"dir": "/Mali/iconPerks_poised.png",
+		"tier": 2
+	},
+	{
+		"dir": "/Mali/iconPerks_headOn.png",
+		"tier": 3		
+	},	
+	
+	{
+		"dir": "/Mali/iconPerks_corruptIntervention.png",
+		"tier": 1
+	},
+	{
+		"dir": "/Mali/iconPerks_infectiousFright.png",
+		"tier": 2
+	},
+	{
+		"dir": "/Mali/iconPerks_darkDevotion.png",
+		"tier": 3		
+	},	
+	
+	{
+		"dir": "/Ash/iconPerks_flipFlop.png",
+		"tier": 1
+	},
+	{
+		"dir": "/Ash/iconPerks_buckleUp.png",
+		"tier": 2
+	},
+	{
+		"dir": "/Ash/iconPerks_mettleOfMan.png",
+		"tier": 3		
+	},	
+	
+	{
+		"dir": "/Oman/iconPerks_imAllEars.png",
+		"tier": 1
+	},
+	{
+		"dir": "/Oman/iconPerks_thrillingTremors.png",
+		"tier": 2
+	},
+	{
+		"dir": "/Oman/iconPerks_furtiveChase.png",
+		"tier": 3		
+	},	
+	
+	{
+		"dir": "/Oman/iconPerks_imAllEars.png",
+		"tier": 1
+	},
+	{
+		"dir": "/Oman/iconPerks_thrillingTremors.png",
+		"tier": 2
+	},
+	{
+		"dir": "/Oman/iconPerks_furtiveChase.png",
+		"tier": 3		
+	},
+
+	{
+		"dir": "/Qatar/iconPerks_betterTogether.png",
+		"tier": 1
+	},
+	{
+		"dir": "/Qatar/iconPerks_fixated.png",
+		"tier": 2
+	},
+	{
+		"dir": "/Qatar/iconPerks_innerStrength.png",
+		"tier": 3		
+	},	
+	
+	{
+		"dir": "/Qatar/iconPerks_babySitter.png",
+		"tier": 1
+	},
+	{
+		"dir": "/Qatar/iconPerks_camaraderie.png",
+		"tier": 2
+	},
+	{
+		"dir": "/Qatar/iconPerks_secondWind.png",
+		"tier": 3		
+	},	
+	
+	{
+		"dir": "/Qatar/iconPerks_surge.png",
+		"tier": 1
+	},
+	{
+		"dir": "/Qatar/iconPerks_cruelConfinement.png",
+		"tier": 2
+	},
+	{
+		"dir": "/Qatar/iconPerks_mindBreaker.png",
+		"tier": 3		
+	},	
+	
+	{
+		"dir": "/Sweden/iconPerks_luckyBreak.png",
+		"tier": 1
+	},
+	{
+		"dir": "/Sweden/iconPerks_anyMeansNecessary.png",
+		"tier": 2
+	},
+	{
+		"dir": "/Sweden/iconPerks_breakout.png",
+		"tier": 3		
+	},	
+	
+	{
+		"dir": "/Sweden/iconPerks_zanshinTactics.png",
+		"tier": 1
+	},
+	{
+		"dir": "/Sweden/iconPerks_bloodEcho.png",
+		"tier": 2
+	},
+	{
+		"dir": "/Sweden/iconPerks_nemesis.png",
+		"tier": 3		
+	},	
+	
+	{
+		"dir": "/Ukraine/iconPerks_offTheRecord.png",
+		"tier": 1
+	},
+	{
+		"dir": "/Ukraine/iconPerks_redHerring.png",
+		"tier": 2
+	},
+	{
+		"dir": "/Ukraine/iconPerks_forThePeople.png",
+		"tier": 3		
+	},
+
+	{
+		"dir": "/Ukraine/iconPerks_gearHead.png",
+		"tier": 1
+	},
+	{
+		"dir": "/Ukraine/iconPerks_deadManSwitch.png",
+		"tier": 2
+	},
+	{
+		"dir": "/Ukraine/iconPerks_hexRetribution.png",
+		"tier": 3		
+	},	
+	
+	{
+		"dir": "/Wales/iconPerks_soulGuard.png",
+		"tier": 1
+	},
+	{
+		"dir": "/Wales/iconPerks_bloodPact.png",
+		"tier": 2
+	},
+	{
+		"dir": "/Wales/iconPerks_repressedAlliance.png",
+		"tier": 3		
+	},	
+	
+	{
+		"dir": "/Yemen/iconPerks_visionary.png",
+		"tier": 1
+	},
+	{
+		"dir": "/Yemen/iconPerks_desperateMeasures.png",
+		"tier": 2
+	},
+	{
+		"dir": "/Yemen/iconPerks_builtToLast.png",
+		"tier": 3		
+	},	
+	
+	{
+		"dir": "/Yemen/iconPerks_dragonsGrip.png",
+		"tier": 1
+	},
+	{
+		"dir": "/Yemen/iconPerks_hexBloodFavor.png",
+		"tier": 2
+	},
+	{
+		"dir": "/Yemen/iconPerks_hexUndying.png",
+		"tier": 3		
+	},
+
+	{
+		"dir": "/Aurora/iconPerks_appraisal.png",
+		"tier": 1
+	},
+	{
+		"dir": "/Aurora/iconPerks_deception.png",
+		"tier": 2
+	},
+	{
+		"dir": "/Aurora/iconPerks_powerStruggle.png",
+		"tier": 3		
+	},	
+	
+	{
+		"dir": "/Aurora/iconPerks_Hoarder.png",
+		"tier": 1
+	},
+	{
+		"dir": "/Aurora/iconPerks_Oppression.png",
+		"tier": 2
+	},
+	{
+		"dir": "/Aurora/iconPerks_coupDeGrace.png",
+		"tier": 3		
+	},	
+	
+	{
+		"dir": "/Comet/iconPerks_FastTrack.png",
+		"tier": 1
+	},
+	{
+		"dir": "/Comet/iconPerks_SmashHit.png",
+		"tier": 2
+	},
+	{
+		"dir": "/Comet/iconPerks_Self-Preservation.png",
+		"tier": 3		
+	},	
+	
+	{
+		"dir": "/Comet/iconPerks_Starstruck.png",
+		"tier": 1
+	},
+	{
+		"dir": "/Comet/iconPerks_HexCrowdControl.png",
+		"tier": 2
+	},
+	{
+		"dir": "/Comet/iconPerks_NoWayOut.png",
+		"tier": 3		
+	}
+	
+]
